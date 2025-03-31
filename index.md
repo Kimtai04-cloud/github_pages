@@ -1,5 +1,5 @@
 ---
-title: Welcome 🤝
-author: Kimutai Caleb
+Title: Welcome 🤝
+Author: Kimutai Caleb
 ---
 
